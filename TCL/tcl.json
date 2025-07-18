@@ -1,0 +1,9 @@
+{
+    "accounts": [
+        {
+            "remark": "账号1",
+            "accountId": "",
+            "refreshToken": ""
+        }
+    ]
+}
